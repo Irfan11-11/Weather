@@ -1,0 +1,30 @@
+
+body{
+    background-image: url(./image/cold-front-warm-front-hurricane-felix-76969.jpeg);
+    width: 100%;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+
+
+}
+
+.main{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+.details{
+    height: 700px;
+    width: 30%;
+    background-color: rgba(106, 92, 92, 0.649);
+}
+
+.main h2{
+    color: white;
+    margin-top: 30px;
+    margin-left: 20px;
+}
+
